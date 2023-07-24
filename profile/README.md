@@ -7,6 +7,8 @@ Open Toolbox a burgeoning team of programmers interested in building open source
 #### What's in the toolbox.
 1. [json-base](https://www.npmjs.com/package/@ndzhwr/json-base) ::  [@regisrex](https://github.com/regisrex) :: 📦 A simple tool that helps using a json file as the database nodejs  
 2. [npx-proj](https://npmjs.com/package/npx-proj) :: [@pacifiquem](https://github.com/pacifiquem) :: NodeJS project-structure manager
+3. [next13-progressbar](https://npmjs.com/package/next13-progressbar) ::[@NdungutseCharles103](https://github.com/NdungutseCharles103) :: Next 13 Progressbar
+4. Other work of art 😍 from @mugishap, @jazzybruno and @IVainquer
 
 
 ####  Join the team.
