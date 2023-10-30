@@ -9,8 +9,8 @@ Open Toolbox a burgeoning team of programmers interested in building open source
 2. [npx-proj](https://npmjs.com/package/npx-proj) :: [@pacifiquem](https://github.com/pacifiquem) :: NodeJS project-structure manager
 3. [package-mover](https://npmjs.com/package/package-mover) :: [@IVainqueur](https://github.com/IVainqueur) :: move npm packages across local projects without internet
 4. [auto-push](https://github.com/opentoolbox-gh/auto-push) :: [@IVainqueur](https://github.com/IVainqueur) :: regular interval and automatic git push for those who forget.
-5. [next13-progressbar](https://npmjs.com/package/next13-progressbar) ::[@NdungutseCharles103](https://github.com/NdungutseCharles103) :: Next 13 Progressbar
-6. Other work of art 😍 from @mugishap and @jazzybruno.
+5. [next13-progressbar](https://npmjs.com/package/next13-progressbar) ::[@ndungtse](https://github.com/ndungtse) :: Next 13 Progressbar
+6. Other work of art 😍 from [@mugishap](https://github.com/mugishap) , [@jazzybruno](https://github.com/jazzybruno) and [@HallCoder](https://github.com/HallCoder).
 
 
 ####  Join the team.
