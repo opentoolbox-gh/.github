@@ -13,8 +13,5 @@ Open Toolbox a burgeoning team of programmers interested in building open source
 6. Other work of art 😍 from [@mugishap](https://github.com/mugishap) , [@jazzybruno](https://github.com/jazzybruno) and [@HallCoder](https://github.com/HallCoder).
 
 
-####  Join the team.
-For joining, email us with your open source project's repository, we'll handle the rest.
 
-
-<p align="right">July-2023</p>
+<p align="right">👨‍💻 === 😹 </p>
