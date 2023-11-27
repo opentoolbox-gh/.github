@@ -6,7 +6,7 @@ Open Toolbox a burgeoning team of programmers interested in building open source
 
 #### What's in the toolbox.
 1. [json-base](https://www.npmjs.com/package/@ndzhwr/json-base) ::  [@regisrex](https://github.com/regisrex) :: 📦 A simple tool that helps using a json file as the database nodejs  
-2. [npx-proj](https://npmjs.com/package/npx-proj) :: [@pacifiquem](https://github.com/pacifiquem) :: NodeJS project-structure manager
+2. [lepper](https://npmjs.com/package/lepper) :: [@pacifiquem](https://github.com/pacifiquem) :: NodeJS project-structure manager
 3. [package-mover](https://npmjs.com/package/package-mover) :: [@IVainqueur](https://github.com/IVainqueur) :: move npm packages across local projects without internet
 4. [auto-push](https://github.com/opentoolbox-gh/auto-push) :: [@IVainqueur](https://github.com/IVainqueur) :: regular interval and automatic git push for those who forget.
 5. [next13-progressbar](https://npmjs.com/package/next13-progressbar) ::[@ndungtse](https://github.com/ndungtse) :: Next 13 Progressbar
